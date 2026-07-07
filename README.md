@@ -30,6 +30,10 @@ Participants are required to implement an inference pipeline that processes each
 Training and Test Datasets: [link](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/data?select=AIMO3_Reference_Problems.pdf)<br>
 gpt-oss-120b: [link](https://www.kaggle.com/models/danielhanchen/gpt-oss-120b/Transformers/default/1)
 
+## Citation
+
+Simon Frieder, Sam Bealing, Philip Vonderlind, Sida Li, Arsenii Nikolaiev, Geoff C. Smith, Kevin Buzzard, Timothy Gowers, Peter J. Liu, Po-Shen Loh, Lester Mackey, Leonardo de Moura, Dan Roberts, D. Sculley, Terence Tao, David Balduzzi, Simon Coyle, Alex Gerko, Ryan Holbrook, Addison Howard, and XTX Markets. AI Mathematical Olympiad - Progress Prize 3. https://kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3, 2025. Kaggle.
+
 
 
 
