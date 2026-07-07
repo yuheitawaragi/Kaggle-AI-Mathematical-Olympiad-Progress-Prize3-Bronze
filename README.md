@@ -1,4 +1,4 @@
-# Kaggle-AI-Mathematical-Olympiad-Progress-Prize3-Bronze
+# 🥉Kaggle-AI-Mathematical-Olympiad-Progress-Prize3-Bronze
 
 Kaggle competition bronze (281/4138) solution<br>
 Private Score: 42.0<br>
