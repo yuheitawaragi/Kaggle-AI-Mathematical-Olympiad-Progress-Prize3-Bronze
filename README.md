@@ -27,7 +27,7 @@ Participants are required to implement an inference pipeline that processes each
 
 ## Data and model
 
-Training and Test Datasets: [link](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/data?select=AIMO3_Reference_Problems.pdf) <br>
+Training and Test Datasets: [link](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/data?select=AIMO3_Reference_Problems.pdf)<br>
 gpt-oss-120b: [link](https://www.kaggle.com/models/danielhanchen/gpt-oss-120b/Transformers/default/1)
 
 
