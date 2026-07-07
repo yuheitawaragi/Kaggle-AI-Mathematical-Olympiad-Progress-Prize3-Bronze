@@ -1,1 +1,1 @@
-## 🥉Kaggle Stanford RNA 3D Folding Bronze (My Solution)
+## 🥉Kaggle AI Mathematical Olympiad Progress Prize3 Bronze (My Solution)
