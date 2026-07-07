@@ -15,5 +15,12 @@ Unlike traditional benchmark datasets, the competition emphasizes genuine reason
 The goal of this competition is to develop an open-source large language model (LLM) capable of solving previously unseen Olympiad-level mathematics problems. Given a mathematical problem written in LaTeX format, the model must reason through the problem and predict the correct integer answer between 0 and 99,999.
 Participants are challenged to build efficient inference pipelines under limited computational resources, with an emphasis on genuine mathematical reasoning rather than memorization.
 
+## Evaluation
+
+Submissions are evaluated using Accuracy, which measures the proportion of problems for which the predicted integer answer exactly matches the ground truth.
+The final leaderboard is determined by Penalized Accuracy, where each team submits two independent inference runs. This metric rewards both correctness and consistency while discouraging overfitting to a single submission. Only the final integer answer for each problem is evaluated.
+
+
+
 
 
