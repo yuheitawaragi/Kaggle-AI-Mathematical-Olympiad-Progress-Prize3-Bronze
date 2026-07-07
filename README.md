@@ -25,6 +25,11 @@ The final leaderboard is determined by Penalized Accuracy, where each team submi
 Submissions must be made using the official Python evaluation API provided by the competition. The API serves test instances one at a time, presenting them in a random order for the public leaderboard and in a fixed random order for the private leaderboard.
 Participants are required to implement an inference pipeline that processes each test instance sequentially and returns the predicted integer answer through the evaluation API. This submission format prevents access to the entire test set at once and ensures a fair evaluation of model performance.
 
+## Data and model
+
+Training problem and answer and test dataset: [link](https://www.kaggle.com/competitions/ai-mathematical-olympiad-progress-prize-3/data?select=AIMO3_Reference_Problems.pdf)
+
+
 
 
 
