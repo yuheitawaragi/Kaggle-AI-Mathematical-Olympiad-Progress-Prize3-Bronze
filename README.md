@@ -9,3 +9,11 @@ The goal of the competition is to develop open-source AI models capable of solvi
 
 The AI Mathematical Olympiad - Progress Prize 3 (AIMO3) is a Kaggle competition focused on advancing mathematical reasoning capabilities in open-source large language models (LLMs). Participants are challenged to develop AI systems that can solve previously unseen Olympiad-level mathematics problems written in LaTeX format.
 Unlike traditional benchmark datasets, the competition emphasizes genuine reasoning rather than memorization. Solutions must accurately predict the final integer answer for problems covering algebra, geometry, combinatorics, number theory, and other advanced mathematical topics under limited computational resources.
+
+## Competition goal
+
+The goal of this competition is to develop an open-source large language model (LLM) capable of solving previously unseen Olympiad-level mathematics problems. Given a mathematical problem written in LaTeX format, the model must reason through the problem and predict the correct integer answer between 0 and 99,999.
+Participants are challenged to build efficient inference pipelines under limited computational resources, with an emphasis on genuine mathematical reasoning rather than memorization.
+
+
+
