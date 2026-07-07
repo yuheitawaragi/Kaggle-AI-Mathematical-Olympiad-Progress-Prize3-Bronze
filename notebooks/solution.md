@@ -15,3 +15,6 @@ Since the competition imposes strict computational constraints, the inference pi
 ### Key Techniques
 
 * Ensemble of multiple open-source LLMs<br>
+* Multiple prompt templates for diverse reasoning<br> 
+* Majority voting for answer aggregation<br> 
+* Optimized sequential inference under resource constraints<br>
