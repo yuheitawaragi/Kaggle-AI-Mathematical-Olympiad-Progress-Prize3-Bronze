@@ -20,6 +20,11 @@ Participants are challenged to build efficient inference pipelines under limited
 Submissions are evaluated using Accuracy, which measures the proportion of problems for which the predicted integer answer exactly matches the ground truth.
 The final leaderboard is determined by Penalized Accuracy, where each team submits two independent inference runs. This metric rewards both correctness and consistency while discouraging overfitting to a single submission. Only the final integer answer for each problem is evaluated.
 
+## Submission
+
+Submissions must be made using the official Python evaluation API provided by the competition. The API serves test instances one at a time, presenting them in a random order for the public leaderboard and in a fixed random order for the private leaderboard.
+Participants are required to implement an inference pipeline that processes each test instance sequentially and returns the predicted integer answer through the evaluation API. This submission format prevents access to the entire test set at once and ensures a fair evaluation of model performance.
+
 
 
 
